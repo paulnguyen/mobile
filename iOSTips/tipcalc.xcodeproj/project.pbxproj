@@ -294,12 +294,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = DPT4QME9Y6;
+				DEVELOPMENT_TEAM = Z2ER6G3PC7;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = tipcalc/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 5.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.paulnguyen.tipcalc;
+				PRODUCT_BUNDLE_IDENTIFIER = com.paulnguyen.demo.tipcalc;
 				PRODUCT_NAME = "Tip Calculator";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
